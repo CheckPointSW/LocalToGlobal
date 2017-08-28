@@ -4,7 +4,7 @@ Check Point LocalToGlobal tool enables you to copy objects from a local domain t
 ## Instructions
 For copying an object, which type is known, run the script:
 
-'local_<object type>_to_global.py' -o <object uid>
+'local_[object type]_to_global.py' -o <object uid>
 
 For copying an object, which type is unknown, run the script:
 
@@ -16,7 +16,6 @@ For copying multiple objects, these objects need to be tagged using Check Point 
 
 
 Additional Flags
-----------------
 
 The following flags are mandatory:
 
