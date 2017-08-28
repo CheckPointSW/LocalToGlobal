@@ -10,7 +10,7 @@ For copying an object, which type is unknown, run the script:
 
 'local_object_to_global.py' -o [object uid]
 
-For copying multiple objects, these objects need to be tagged using Check Point SmartConsole application or 'add-tag' API command, and then run the script:
+For copying multiple objects, these objects need to be tagged using Check Point SmartConsole application or 'add-tag' Check Point Management CLI command, and then run the script:
 
 'local_to_global_by_tag.py' [tag name]
 
