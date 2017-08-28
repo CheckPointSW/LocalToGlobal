@@ -34,11 +34,11 @@ The following flags are optional:
 -g [global domain name] : the default value is 'Global'
 
 ### The scripts create the following output files:
-1. json_objects.json - contains a list of {<original object uid> : <cloned global object uid>}
+1. json_objects.json - contains a list of {[original object uid] : [cloned global object uid]}
 
-2. csv_file.csv - contains a list of {<original object uid>, <original object name>, <cloned global object name>, <cloned global object uid>}
+2. csv_file.csv - contains a list of {[original object uid], [original object name], [cloned global object name], [cloned global object uid]}
 
-If a global object is not created, the <cloned global object name> <cloned global object uid> will remain empty.
+If a global object is not created, the [cloned global object name] [cloned global object uid] will remain empty.
 
 ## Notes
 1. Here is the list of 'known' object types - host, network, address range, network group, tcp service, udp service, service group.
