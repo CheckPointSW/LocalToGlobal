@@ -40,7 +40,7 @@ The following flags are optional:
 
 If a global object is not created, the [cloned global object name] [cloned global object uid] will remain empty.
 
-## Notes
+### Notes
 1. Here is the list of 'known' object types - host, network, address range, network group, tcp service, udp service, service group.
 
 2. If a group object is copied, the script will also copy all group member objects.
