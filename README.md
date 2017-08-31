@@ -2,7 +2,11 @@
 Check Point LocalToGlobal tool enables you to copy objects from a local domain to the global domain.
 
 ## Instructions
-Download and copy the 'mgmt_api_lib' folder from [Check Point API Python SDK](https://github.com/CheckPoint-APIs-Team/cpapi-python-sdk) into tool's download folder.
+Clone the repository with this command:
+```git
+git clone --recursive https://github.com/CheckPoint-APIs-Team/ExportImportPolicyPackage
+```
+Or by clicking the Download ZIP button.
 
 For copying an object, which type is known, run the script:
 
