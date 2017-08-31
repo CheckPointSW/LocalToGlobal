@@ -48,4 +48,4 @@ If a global object is not created, the [cloned global object name] [cloned globa
 3. If an object contains a 'nat-settings' field, this field is not copied.
 
 ## Development Environment
-The tool is developed using Python language version 2.7.9 and Check Point API Python SDK.
+The tool is developed using Python language version 2.7.9 and [Check Point API Python SDK.](https://github.com/CheckPoint-APIs-Team/cpapi-python-sdk)
