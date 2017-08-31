@@ -2,6 +2,8 @@
 Check Point LocalToGlobal tool enables you to copy objects from a local domain to the global domain.
 
 ## Instructions
+Download and extract [Check Point API Python SDK](https://github.com/CheckPoint-APIs-Team/cpapi-python-sdk) into tool's download folder.
+
 For copying an object, which type is known, run the script:
 
 'local_[object type]_to_global.py' -o [object uid]
