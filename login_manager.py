@@ -1,8 +1,8 @@
 import csv
 import os
 
-from mgmt_api_lib import api_exceptions
-from mgmt_api_lib import mgmt_api
+from cp_mgmt_api_python_sdk.lib import api_exceptions, mgmt_api
+
 
 # the path to the current directory
 path = os.path.dirname(os.path.abspath(__file__)) + os.sep
