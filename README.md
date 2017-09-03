@@ -4,7 +4,7 @@ Check Point LocalToGlobal tool enables you to copy objects from a local domain t
 ## Instructions
 Clone the repository with this command:
 ```git
-git clone --recursive https://github.com/CheckPoint-APIs-Team/ExportImportPolicyPackage
+git clone --recursive https://github.com/CheckPoint-APIs-Team/LocalToGlobal
 ```
 Or by clicking the Download ZIP button.
 
