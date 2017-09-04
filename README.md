@@ -6,7 +6,7 @@ Clone the repository with this command:
 ```git
 git clone --recursive https://github.com/CheckPoint-APIs-Team/LocalToGlobal
 ```
-Or by clicking the Download ZIP button.
+or by clicking the Download ZIP button. In this case, the "cp_mgmt_api_python_sdk" folder will be created empty and you will need to manually download and copy the [Check Point API Python SDK](https://github.com/CheckPoint-APIs-Team/cpapi-python-sdk) content into this folder.
 
 For copying an object, which type is known, run the script:
 
