@@ -1,7 +1,7 @@
 import csv
 import os
 
-from cp_mgmt_api_python_sdk.lib import api_exceptions, mgmt_api
+from cpapi import api_exceptions, mgmt_api
 
 
 # the path to the current directory
